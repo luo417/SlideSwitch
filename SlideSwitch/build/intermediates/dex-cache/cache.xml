@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Hailin/Desktop/WorkSpace/SlideSwitch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02eee99d36cbb478e8234d3f5fd302b441078f96">
+        <dex dex="/Users/Hailin/Desktop/WorkSpace/SlideSwitch/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_8740b27c44321be79e60c9469f2f72d10b3d6233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hailin/Desktop/WorkSpace/SlideSwitch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f4666547315083a907e9dda0feb909cb3c01226">
+        <dex dex="/Users/Hailin/Desktop/WorkSpace/SlideSwitch/app/build/intermediates/pre-dexed/debug/instant-run_404b5d1618378e0bba639f3f3838ec4ddbf2d458.jar" />
+    </item>
+
+</items>
